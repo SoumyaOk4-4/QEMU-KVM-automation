@@ -62,9 +62,9 @@ sudo apk add qemu-kvm libvirt-daemon-system libvirt-clients bridge-utils virt-ma
 ```
 ### Then install this script file 
 - Edit it's `<user_name>/<your_harddrive_name>/<folder_to_store_vm>` to your user_name and external hard-drive name
-```
-~~cd '/run/media/<user_name>/<your_harddrive_name>/<folder_to_store_vm>'~~
 
+~~cd '/run/media/<user_name>/<your_harddrive_name>/<folder_to_store_vm>'~~
+```
 #As per **john** and his **VM** folder inside **1TB** external harddisk...
 cd '/run/media/john/1.0TB/VM'
 ```
